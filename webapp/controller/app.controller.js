@@ -6,6 +6,9 @@ function (Controller) {
 
     return Controller.extend("project1.controller.app", {
         onInit: function () {
+            /*
+                test test
+            */
 
         }
     });
